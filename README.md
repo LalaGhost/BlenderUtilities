@@ -8,6 +8,6 @@ Collection of small and useful Blender scripts.
 4. Search in your F3 and look for the name of the script
 
 ### Lerp Between Objects:
-![Lerp Between Objects Preview] (/assets/lerp_between_objects_preview.jpg)
+![Lerp Between Objects Preview] (https://github.com/LalaGhost/BlenderUtilities/blob/main/assets/lerp_between_objects_preview.jpg)
 1. Select two objects
 2. Run the script
