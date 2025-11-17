@@ -1,2 +1,2 @@
-# BlenderUtilities
-Collection of small and useful Blender scripts
+# Blender Utilities
+Collection of small and useful Blender scripts.
